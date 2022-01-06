@@ -7,5 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "BootstrapApplication"
-include(":app")
- 
+include ':app'
